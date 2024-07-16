@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assignment-zaplo/static/css/main.52121400.css",
+    "main.js": "/assignment-zaplo/static/js/main.fbf32e19.js",
+    "static/js/453.b4ba48da.chunk.js": "/assignment-zaplo/static/js/453.b4ba48da.chunk.js",
+    "index.html": "/assignment-zaplo/index.html",
+    "main.52121400.css.map": "/assignment-zaplo/static/css/main.52121400.css.map",
+    "main.fbf32e19.js.map": "/assignment-zaplo/static/js/main.fbf32e19.js.map",
+    "453.b4ba48da.chunk.js.map": "/assignment-zaplo/static/js/453.b4ba48da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52121400.css",
+    "static/js/main.fbf32e19.js"
+  ]
+}
